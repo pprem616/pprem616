@@ -14,7 +14,7 @@ Developed an ELT pipeline using dbt Core to transform raw flight data into a Sno
 Shopify - E2E Azure Data Pipeline : \
 Engineered Shopify sales data pipeline using ADF and Databricks, implementing a Medallion architecture with Delta Live Tables.\
 DocuChat - RAG-Based Document Q&A System : \
-Built a RAG system using Amazon Bedrock, integrating AssemblyAI for speech-to-text and AWS Lambda for processing text documents from S3.\
+Built a RAG system using Amazon Bedrock, integrating AssemblyAI for speech-to-text and AWS Lambda for processing text documents.\
 NYC Airbnb Data Analysis : \
 Analyzed Airbnb prices in NYC using multiple Tableau dashboards to deep dive into price distribution, neighborhood demand, and hosts.\
 \
