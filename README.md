@@ -5,7 +5,7 @@ Making data more reliable, actionable, and valuable.\
 I am a Data Engineer and Analyst with over 3 years of experience and deep expertise in modern data engineering and analytics. I specialize in ETL/ELT development, data modeling, data governance, visualization, and CI/CD deployment, with a passion for transforming data chaos into insight.\
 \
 💼 Currently exploring roles in Data Engineering and Analytics. \
-🌱 Always learning and diving into new areas in AI and Cloud Computing.\
+🌱 Always pushing into new areas, specifically within Cloud Computing and AI\
 \
 🛠️ My Recent Projects \
 \
