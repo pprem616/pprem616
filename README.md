@@ -11,7 +11,7 @@ I am a Data Engineer and Analyst with over 3 years of experience and deep expert
 \
 Flight Delay Analytics with Modern Data Engineering : \
  - Developed an ELT pipeline using dbt Core to transform raw flight data into a Snowflake star schema and analyzed it in Power BI.\
-\
+\\
 Shopify - E2E Azure Data Pipeline : \
  - Engineered Shopify sales data pipeline using ADF and Databricks, implementing a Medallion architecture with Delta Live Tables.\
 \
