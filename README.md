@@ -1,4 +1,4 @@
-Making data more reliable, actionable, and valuable.\
+🎯 Making data more reliable, actionable, and valuable.\
 \
 ┌──────────┐\
 &emsp;&emsp;About  Me\
