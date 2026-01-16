@@ -7,11 +7,13 @@ Making data more reliable, actionable, and valuable.\
 I am a Data Engineer and Analyst with over 3 years of experience and deep expertise in modern data engineering and analytics. I specialize in ETL/ELT development, data modeling, data governance, visualization, and CI/CD deployment, with a passion for transforming data chaos into insight.\
 \
 🛠️ Skillset:\
-Programming Languages: Python (Pandas, NumPy, PySpark), SQL, Bash\
-Database Technologies: MySQL, SQL Server, MongoDB, Neo4j\
-Cloud and Big Data Systems: AWS, Azure, Databricks, Snowflake, Apache Spark, Apache Kafka\
-ETL/ELT and DevOps Tools: Talend, Informatica, dbt, Airflow, Terraform, GitHub Actions, Azure DevOps\
-Data Visualization & Analysis: Tableau, Power BI, Google Looker Studio, MS Excel\
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Programming Languages** | Python (Pandas, NumPy, PySpark), SQL, Bash |
+| **Database Technologies** | MySQL, SQL Server, MongoDB, Neo4j |
+| **Cloud & Big Data Systems** | AWS, Azure, Databricks, Snowflake, Apache Spark, Apache Kafka |
+| **ETL/ELT & DevOps Tools** | Talend, Informatica, dbt, Airflow, Terraform, GitHub Actions, Azure DevOps |
+| **Data Visualization & Analysis** | Tableau, Power BI, Google Looker Studio, MS Excel |
 \
 💼 Currently exploring roles in Data Engineering and Analytics. \
 🌱 Always pushing into new areas, specifically within Cloud Computing and AI\
