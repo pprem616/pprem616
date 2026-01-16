@@ -9,11 +9,13 @@ I am a Data Engineer and Analyst with over 3 years of experience and deep expert
 🛠️ Skillset:\
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Programming Languages** | Python (Pandas, NumPy, PySpark), SQL, Bash |
-| **Database Technologies** | MySQL, SQL Server, MongoDB, Neo4j |
-| **Cloud & Big Data Systems** | AWS, Azure, Databricks, Snowflake, Apache Spark, Apache Kafka |
-| **ETL/ELT & DevOps Tools** | Talend, Informatica, dbt, Airflow, Terraform, GitHub Actions, Azure DevOps |
-| **Data Visualization & Analysis** | Tableau, Power BI, Google Looker Studio, MS Excel |
+| **Programming** | Python (Pandas, NumPy, PySpark), SQL, Bash |
+| **Databases** | MySQL, SQL Server, MongoDB, Neo4j |
+| **Cloud & Big Data** | AWS, Azure, Databricks, Snowflake, Spark, Kafka |
+| **ETL & DevOps** | Talend, Informatica, dbt, Airflow, Terraform, GitHub |
+| **Visualization** | Tableau, Power BI, Looker Studio, MS Excel |
+
+&nbsp;
 \
 💼 Currently exploring roles in Data Engineering and Analytics. \
 🌱 Always pushing into new areas, specifically within Cloud Computing and AI\
