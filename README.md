@@ -8,7 +8,7 @@ I am a Data Engineer and Analyst with over 3 years of experience and deep expert
 | **Programming** | Python (Pandas, NumPy, PySpark), SQL, Bash |
 | **Databases** | MySQL, SQL Server, MongoDB, Neo4j |
 | **Cloud & Big Data** | AWS, Azure, Databricks, Snowflake, Spark, Kafka |
-| **ETL & DevOps** | Talend, Informatica, dbt, Airflow, Terraform, GitHub |
+| **ETL/ELT & DevOps** | Talend, Informatica, dbt, Airflow, Terraform, GitHub |
 | **Visualization** | Tableau, Power BI, Looker Studio, MS Excel |
 
 &nbsp;
