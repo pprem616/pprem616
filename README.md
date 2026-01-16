@@ -23,16 +23,16 @@ I am a Data Engineer and Analyst with over 3 years of experience and deep expert
 🛠️ My Recent Projects \
 \
 Flight Delay Analytics with Modern Data Engineering : \
-●&emsp;Developed an ELT pipeline using dbt Core to transform raw flight data into a Snowflake star schema and analyzed it in Power BI. \
+●&ensp;Developed an ELT pipeline using dbt Core to transform raw flight data into a Snowflake star schema and analyzed it in Power BI. \
 \
 Shopify - E2E Azure Data Pipeline : \
-●&emsp;Engineered Shopify sales data pipeline using ADF and Databricks, implementing a Medallion architecture with Delta Live Tables.\
+●&ensp;Engineered Shopify sales data pipeline using ADF and Databricks, implementing a Medallion architecture with Delta Live Tables.\
 \
 DocuChat - RAG-Based Document Q&A System : \
-●&emsp;Built a RAG system using Amazon Bedrock, integrating AssemblyAI for speech-to-text and AWS Lambda for processing text documents.\
+●&ensp;Built a RAG system using Amazon Bedrock, integrating AssemblyAI for speech-to-text and AWS Lambda for processing text documents.\
 \
 NYC Airbnb Data Analysis : \
-●&emsp;Analyzed Airbnb prices in NYC using multiple Tableau dashboards to deep dive into price distribution, neighborhood demand, & hosts.\
+●&ensp;Analyzed Airbnb prices in NYC using multiple Tableau dashboards to deep dive into price distribution, neighborhood demand, & hosts.\
 \
 🌐 Let's connect!\
 \
