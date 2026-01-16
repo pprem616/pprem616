@@ -3,6 +3,7 @@
 I am a Data Engineer and Analyst with over 3 years of experience and deep expertise in modern data engineering and analytics. I specialize in ETL/ELT development, data modeling, data governance, visualization, and CI/CD deployment, with a passion for transforming data chaos into insight.\
 \
 🛠️ Skillset:
+| Category | Technologies & Tools |
 | :--- | :--- |
 | **Programming** | Python (Pandas, NumPy, PySpark), SQL, Bash |
 | **Databases** | MySQL, SQL Server, MongoDB, Neo4j |
