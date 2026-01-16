@@ -4,7 +4,7 @@ Making data more reliable, actionable, and valuable.\
 &emsp;&emsp;&emsp;&emsp;About  Me\
 └────────────────┘ \
 \
-I am a Data Engineer and Analyst with over 3 years of experience and deep expertise in modern data engineering and analytics. I specialize in ETL/ELT development, data modeling, data governance, visualization, and CI/CD deployment, with a passion for transforming data chaos into insight.
+I am a Data Engineer and Analyst with over 3 years of experience and deep expertise in modern data engineering and analytics. I specialize in ETL/ELT development, data modeling, data governance, visualization, and CI/CD deployment, with a passion for transforming data chaos into insight.\
 \
 🛠️ Skillset:\
 Programming Languages: Python (Pandas, NumPy, PySpark), SQL, Bash\
